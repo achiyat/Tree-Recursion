@@ -1,0 +1,7 @@
+﻿  BinTree_level2(Recursion).c
+C:\Users\achiy\source\repos\BinTree_level2(Recursion)\BinTree_level2(Recursion)\BinTree_level2(Recursion).c(37,3): warning C4013: 'LR' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\BinTree_level2(Recursion)\BinTree_level2(Recursion)\BinTree_level2(Recursion).c(42,3): warning C4013: 'L' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\BinTree_level2(Recursion)\BinTree_level2(Recursion)\BinTree_level2(Recursion).c(51,8): error C2040: 'L': 'TLeaf *(TLeaf)' differs in levels of indirection from 'int ()'
+C:\Users\achiy\source\repos\BinTree_level2(Recursion)\BinTree_level2(Recursion)\BinTree_level2(Recursion).c(70,8): error C2040: 'LR': 'TLeaf *(TLeaf *)' differs in levels of indirection from 'int ()'
+C:\Users\achiy\source\repos\BinTree_level2(Recursion)\BinTree_level2(Recursion)\BinTree_level2(Recursion).c(83,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Leaf *'
+C:\Users\achiy\source\repos\BinTree_level2(Recursion)\BinTree_level2(Recursion)\BinTree_level2(Recursion).c(83,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'Leaf *'
